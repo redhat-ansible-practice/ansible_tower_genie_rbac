@@ -23,7 +23,7 @@ An Ansible role to assign role based access controls on Ansible Tower objects to
 ---
 - hosts: all
   roles:
-    - role: "tower-rbac"
+    - role: "genie-rbac"
       tower_url: "https:/my-tower-server.foo.bar"
       tower_verify_ssl: False
       tower_user: "admin"
