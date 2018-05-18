@@ -157,7 +157,7 @@
 
 # This task could be removed if tower_role module worked in Ansible 2.5 with tower-cli 3.2.1
 # Cleanup
-- name: Destroy tower_cli config
+- name: Destroy tower-cli config
   file:
     path:  "~/.tower_cli.cfg"
     state: "absent"
