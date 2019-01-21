@@ -1,4 +1,4 @@
-# genie-rbac
+# ansible_tower_genie_rbac
 ## Description
 An Ansible role to assign role based access controls on Ansible Tower objects to a given team.
 ## Variables
