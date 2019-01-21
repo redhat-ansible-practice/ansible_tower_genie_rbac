@@ -37,4 +37,4 @@ An Ansible role to assign role based access controls on Ansible Tower objects to
 [MIT](LICENSE)
 
 ## Author
-[Andrew J. Huffman](mailto:ahuffman@redhat.com)
+[Andrew J. Huffman](https://github.com/ahuffman)
