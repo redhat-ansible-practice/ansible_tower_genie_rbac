@@ -51,6 +51,7 @@ galaxy_info:
   galaxy_tags:
     - "ansibletower"
     - "tower"
+    - "awx"
     - "genie"
     - "rbac"
     # List tags for your role here, one per line. A tag is a keyword that describes
