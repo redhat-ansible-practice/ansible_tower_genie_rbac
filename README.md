@@ -33,5 +33,8 @@ An Ansible role to assign role based access controls on Ansible Tower objects to
       tower_rbac_role: "use"
       tower_rbac_team: "team1"
 ```
+## License
+[MIT](LICENSE)
+
 ## Author
 [Andrew J. Huffman](mailto:ahuffman@redhat.com)
